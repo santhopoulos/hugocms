@@ -1,4 +1,4 @@
-baseURL = 'https://extraordinary-dango-83098d.netlify.app/'  # change after deploying site
+baseURL = 'https://hugoandcms.netlify.app'  # change after deploying site
 languageCode = 'en-us'
 title = 'Hugo and Netlify CMS'
 theme = 'ananke'
